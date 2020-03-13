@@ -145,13 +145,14 @@
             >
               <div>
                 <div class="p-y-4">
-                  <div class="unt itm s-d p-s-5 CASE">design</div>
-
                   <router-link class="c-i-t" to="/">
                     <div class="unt itm Case">
-                      <i class="material-icons">home</i>home
+                      <i class="material-icons">home</i>get started
                     </div>
                   </router-link>
+                </div>
+                <div class="p-y-4">
+                  <div class="unt itm s-d p-s-5 CASE">design</div>
                   <router-link class="c-i-t" to="/colors">
                     <div class="unt itm Case">
                       <i class="material-icons">palette</i>colors

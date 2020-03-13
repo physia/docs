@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.6b471fc7213aeac6413979477a917cd1.js"
+  "precache-manifest.36d49b3fbda598fda58db2cd51c4ca0f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "physia-docs"});
