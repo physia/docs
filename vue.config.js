@@ -3,5 +3,6 @@ module.exports = {
     name: 'Physia docs'
   },
 
-  outputDir: 'docs'
+  outputDir: 'docs',
+  publicPath: ''
 }
